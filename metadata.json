@@ -1,0 +1,6 @@
+{
+  "name": "Nay em Ação",
+  "description": "Nay em Ação: seu guia completo de Belo Horizonte. Descubra lugares, experiências, marcas e tudo o que BH tem de melhor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
